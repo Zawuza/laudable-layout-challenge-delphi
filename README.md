@@ -1,0 +1,1 @@
+This is the source code for my article [Laudable Layout Challenge in Delphi](https://medium.com/@Zawuza/laudable-layout-challenge-in-delphi-10930e4d45c4)
